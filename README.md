@@ -1,2 +1,2 @@
 # communication-portal
-A 
+A portal which enables video conferencing , video broadcast , screen sharing and file sharing using webRTC only . The project uses a socket.io server deployed on node.js for signalling . The UI has been designed using bootstrap . The project has been developed by the students of NIT Jamshedpur and is a property of the Department of Computer Science and Engineering , National Institute of Technology , Jamshedpur . 
